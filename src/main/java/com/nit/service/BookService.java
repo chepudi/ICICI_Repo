@@ -7,4 +7,7 @@ public class BookService {
 	public void deleteBook() {
 		System.out.println("Book is deleted form db...");
 	}
+	public void updateBook() {
+		System.out.println("Book is updated form db...");
+	}
 }
